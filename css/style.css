@@ -189,3 +189,9 @@ a {
   -webkit-transition: .5s;
   transition: .5s;
 }
+.autor{
+    font-size: 1.5rem;
+    margin-right: 1rem;
+    width: 15%;
+    height: 15%;
+}
